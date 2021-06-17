@@ -13,7 +13,7 @@
   "dependencies": {
     "@google-cloud/logging-winston": "^3.0.6",
     "@sentry/node": "^5.14.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "buffer-equal-constant-time": "^1.0.1",
     "connect-redis": "^4.0.4",
     "csurf": "^1.11.0",
